@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>SITE_URL/index.html</loc></url>
-  <url><loc>SITE_URL/portfolio.html</loc></url>
-  <url><loc>SITE_URL/services/text_business_letters.html</loc></url>
-  <url><loc>SITE_URL/services/text_flooded.html</loc></url>
-  <url><loc>SITE_URL/services/text_notifications.html</loc></url>
-  <url><loc>SITE_URL/services/text_utilities.html</loc></url>
-  <url><loc>SITE_URL/services/text_winter_flat.html</loc></url>
-  <url><loc>SITE_URL/services/text_winter_tyres.html</loc></url>
-  <url><loc>SITE_URL/services/proverka_raboty.html</loc></url>
-  <url><loc>SITE_URL/services/razbor_zadachi.html</loc></url>
-  <url><loc>SITE_URL/services/razrabotka_bota.html</loc></url>
-  <url><loc>SITE_URL/services/razrabotka_prilozheniya.html</loc></url>
-  <url><loc>SITE_URL/services/statya_na_zakaz.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/index.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/portfolio.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/services/text_business_letters.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/services/text_flooded.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/services/text_notifications.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/services/text_utilities.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/services/text_winter_flat.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/services/text_winter_tyres.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/services/proverka_raboty.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/services/razbor_zadachi.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/services/razrabotka_bota.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/services/razrabotka_prilozheniya.html</loc></url>
+  <url><loc>https://spark-privacy.github.io/marina-docs/services/statya_na_zakaz.html</loc></url>
 </urlset>
